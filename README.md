@@ -14,4 +14,4 @@
 
 # Sponsor
 
-!(Sushicorp)[sushicorp.png]
+![Sushicorp](sushicorp.png)
