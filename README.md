@@ -10,7 +10,7 @@
 
 ## miyazaki
 
-(Android Studioのススメ〜Groovyソースを添えて〜)[http://ym19851201.github.io/devipl_2016spring/]
+[Android Studioのススメ〜Groovyソースを添えて〜](http://ym19851201.github.io/devipl_2016spring/)
 
 
 
