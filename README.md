@@ -6,7 +6,7 @@
 
 ## yano
 
-まだリンクないよ！
+https://speakerdeck.com/yymm/ergodoxfalseliang-sawoyu-ru
 
 ## miyazaki
 
