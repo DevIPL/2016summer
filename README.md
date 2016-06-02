@@ -6,7 +6,9 @@
 
 ## yano
 
-https://speakerdeck.com/yymm/ergodoxfalseliang-sawoyu-ru
+[Ergodoxの良さを語る](https://speakerdeck.com/yymm/ergodoxfalseliang-sawoyu-ru "Ergodoxの良さを語る // Speaker Deck")
+
+[My Ergodox](https://speakerdeck.com/yymm/my-ergodox "My Ergodox // Speaker Deck")
 
 ## miyazaki
 
